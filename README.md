@@ -1,6 +1,6 @@
 # NexusDownloader - Portable Video Downloader
 
-![GitHub Actions Workflow](https://github.com/yourusername/NexusDownloader/actions/workflows/build-release.yml/badge.svg)
+![GitHub Actions Workflow](https://github.com/dikkat4341/NexusDownloader/actions/workflows/build-release.yml/badge.svg)
 ![GitHub release](https://img.shields.io/github/v/release/yourusername/NexusDownloader)
 ![License](https://img.shields.io/github/license/yourusername/NexusDownloader)
 
@@ -11,7 +11,7 @@ Tamamen portable, anti-detection özellikli video indirme programı.
 [![Download EXE](https://img.shields.io/badge/Download-EXE-blue)](https://github.com/yourusername/NexusDownloader/releases/latest/download/NexusDownloader.exe)
 [![Download Portable](https://img.shields.io/badge/Download-Portable_ZIP-green)](https://github.com/yourusername/NexusDownloader/releases/latest/download/NexusDownloader_Portable.zip)
 
-**Latest Release:** [v1.0.0](https://github.com/yourusername/NexusDownloader/releases/latest)
+**Latest Release:** [v1.0.0](https://github.com/dikkat4341/NexusDownloader/releases/latest)
 
 ## ✨ Özellikler
 
@@ -24,7 +24,7 @@ Tamamen portable, anti-detection özellikli video indirme programı.
 
 ## 🚀 Kullanım
 
-1. [Releases](https://github.com/yourusername/NexusDownloader/releases) sayfasından indirin
+1. [Releases](https://github.com/dikkat4341/NexusDownloader/releases) sayfasından indirin
 2. `NexusDownloader.exe` çalıştırın
 3. URL ekleyin veya dosya seçin
 4. İndirmeyi başlatın
@@ -38,7 +38,7 @@ Tamamen portable, anti-detection özellikli video indirme programı.
 ### Kurulum
 ```bash
 # Repository'yi klonla
-git clone https://github.com/yourusername/NexusDownloader.git
+git clone https://github.com/dikkat4341/NexusDownloader.git
 cd NexusDownloader
 
 # Gereksinimleri yükle
